@@ -1,0 +1,8 @@
+algoritmo "Quantidade de reflorestamento"
+VAR
+inteiro: metros, plantio
+	     escreva("Quantos metros cúbicos foram extraídos?")
+		leia("metros")
+		plantio=("metros"*"6")
+		escreva("Você deve plantar", plantio, "árvores")
+fim algoritmo
